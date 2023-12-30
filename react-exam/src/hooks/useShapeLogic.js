@@ -19,8 +19,6 @@ const useShapeLogic = (type, dimensions) => {
         return 0;
     }
   };
-
-  // Calculate perimeter 
   const perimeter = calculatePerimeter(type, dimensions);
 
   //  color based on perimeter value
