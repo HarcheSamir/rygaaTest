@@ -1,0 +1,20 @@
+🔴🔴Changes Made (react-exam)🔴🔴
+
+
+1️⃣Custom Hook: useShapeLogic
+   -Manages hover effects, color, and perimeter calculation.
+   -Reusable across different shapes for cleaner code.
+
+2️⃣Single File Structure: Shape.js
+  -Merged separate files into one for reduced redundancy.
+
+3️⃣Dynamic Styles & CSS Sheets
+  -Dynamic generation of styles within the hook.
+  -External CSS sheets for better organization.
+
+4️⃣Improved Event Handling
+  -Centralized event handling within the custom hook.
+  -Smooth Transition Effect
+
+5️⃣SlightvDesign improvements and smooth transition effects added for a better user experience.
+
